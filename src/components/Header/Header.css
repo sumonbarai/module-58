@@ -1,0 +1,14 @@
+.header-area a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+}
+.header-area nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-area a:hover {
+  color: goldenrod;
+}
